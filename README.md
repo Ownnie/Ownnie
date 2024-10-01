@@ -50,6 +50,7 @@ Welcome to my GitHub profile! I'm a passionate and versatile Software Engineer f
     width="60px"
     alt="cpp">
     &nbsp;&nbsp;&nbsp;&nbsp;
+</br>
   
   <!-- Frameworks -->
   </br>
@@ -112,7 +113,8 @@ Welcome to my GitHub profile! I'm a passionate and versatile Software Engineer f
     width="60px"
     alt="Astro">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  
+</br>
+
   <!-- Storages -->
   </br>
   <h3>Storages</h3>
@@ -136,6 +138,7 @@ Welcome to my GitHub profile! I'm a passionate and versatile Software Engineer f
     width="60px"
     alt="MySQL">
     &nbsp;&nbsp;&nbsp;&nbsp;  
+</br>
   
   <!-- Tools -->
   </br>
@@ -193,6 +196,7 @@ Welcome to my GitHub profile! I'm a passionate and versatile Software Engineer f
     width="60px"
     alt="VS Code">
     &nbsp;&nbsp;&nbsp;&nbsp;
+</br>
   
 </div>
 
