@@ -1,18 +1,24 @@
-# <h1 align="center">
-  <span id="changing-text">Hola! soy</span> Nicolás
-</h1>
+# Hola! soy Nicolás
 
-<style>
-  @keyframes changeText {
-    0%   { content: "Hola! soy"; }
-    20%  { content: "Hello! I am"; }
-    40%  { content: "你好! 我是"; }
-    60%  { content: "¡Hola! soy"; }
-    80%  { content: "Bonjour! je suis"; }
-    100% { content: "Olá! eu sou"; }
-  }
-  #changing-text::after {
-    animation: changeText 10s infinite;
-    content: "Hola! soy";
-  }
-</style>
+```html
+<p align="center">
+  <span id="changing-text">Hola! soy</span> Nicolás
+</p>
+
+<script>
+  const phrases = [
+    "Hola! soy",      // Español
+    "Hello! I am",    // Inglés
+    "你好! 我是",     // Chino Mandarín
+    "Bonjour! je suis",  // Francés
+    "Olá! eu sou"     // Portugués
+  ];
+
+  let index = 0;
+  const changingText = document.getElementById('changing-text');
+
+  setInterval(() => {
+    changingText.textContent = phrases[index];
+    index = (index + 1) % phrases.length;
+  }, 2000); // Cambia cada 2 segundos
+</script>
