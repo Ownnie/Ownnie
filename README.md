@@ -1,16 +1,18 @@
-## Hi there 👋
+# <h1 align="center">
+  <span id="changing-text">Hola! soy</span> Nicolás
+</h1>
 
-<!--
-**Ownnie/Ownnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<style>
+  @keyframes changeText {
+    0%   { content: "Hola! soy"; }
+    20%  { content: "Hello! I am"; }
+    40%  { content: "你好! 我是"; }
+    60%  { content: "¡Hola! soy"; }
+    80%  { content: "Bonjour! je suis"; }
+    100% { content: "Olá! eu sou"; }
+  }
+  #changing-text::after {
+    animation: changeText 10s infinite;
+    content: "Hola! soy";
+  }
+</style>
