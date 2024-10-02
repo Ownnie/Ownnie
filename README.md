@@ -262,6 +262,13 @@ In addition to technical expertise, I bring a strong focus on collaboration, cle
 ------
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/nicolas-calderon/)
-- [Personal Portfolio](#) *(Link to your portfolio or website)*
+
+- <a href="https://www.linkedin.com/in/luis-nicolas-calderon-correa-449923251/" style="display: flex; align-items: center; text-decoration: none; color: black;">
+    <img width="15vw" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="margin-right: 8px; vertical-align: middle;" /> LinkedIn
+  </a>
+
+- <a href="#" style="display: flex; align-items: center; text-decoration: none; color: black;">
+    <img width="20vw" alt="LinkedIn" src="https://logodix.com/logo/1968824.png" style="margin-right: 8px; vertical-align: middle;" /> Personal Portfolio
+  </a>
+
 
