@@ -4,11 +4,11 @@
 
  ## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+<a href="https://www.linkedin.com/in/nico-calderon/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://tu-pagina-web.com" target="_blank">
+<a href="https://nicownnieportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23a020f0.svg?style=for-the-badge&logo=google&logoColor=white" alt="Portfolio">
 </a>
 <a href="https://x.com/OwnnieNs" target="_blank">
